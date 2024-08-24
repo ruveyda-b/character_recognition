@@ -1,0 +1,90 @@
+Resim: 1.jpg
+Koordinatlar: (274, 487, 459, 531)
+
+Resim: 10.jpg
+Koordinatlar: (261, 548, 516, 609)
+
+Resim: 11.jpg
+Koordinatlar: (458, 975, 800, 1049)
+
+Resim: 12.jpg
+Koordinatlar: (792, 962, 1120, 1055)
+
+Resim: 13.jpg
+Koordinatlar: (502, 1025, 768, 1084)
+
+Resim: 14.jpg
+Koordinatlar: (215, 245, 319, 265)
+
+Resim: 15.jpg
+Koordinatlar: (220, 304, 320, 327)
+
+Resim: 16.jpg
+Koordinatlar: (214, 265, 327, 293)
+
+Resim: 17.jpg
+Koordinatlar: (184, 287, 406, 334)
+
+Resim: 18.jpg
+Koordinatlar: (444, 629, 790, 711)
+
+Resim: 19.jpg
+Koordinatlar: (522, 1112, 954, 1207)
+
+Resim: 2.jpg
+Koordinatlar: (274, 460, 470, 506)
+
+Resim: 20.jpg
+Koordinatlar: (229, 375, 360, 415)
+
+Resim: 21.jpg
+Koordinatlar: (91, 125, 162, 139)
+
+Resim: 22.jpg
+Koordinatlar: (467, 573, 840, 660)
+
+Resim: 23.jpg
+Koordinatlar: (2257, 2102, 3456, 2344)
+
+Resim: 24.jpg
+Koordinatlar: (84, 92, 178, 114)
+
+Resim: 25.jpg
+Koordinatlar: (70, 162, 153, 179)
+
+Resim: 26.jpg
+Koordinatlar: (77, 157, 153, 172)
+
+Resim: 27.jpg
+Koordinatlar: (210, 289, 328, 315)
+
+Resim: 28.jpg
+Koordinatlar: (188, 265, 294, 288)
+
+Resim: 29.jpg
+Koordinatlar: (251, 167, 336, 191)
+
+Resim: 3.jpg
+Koordinatlar: (256, 403, 438, 454)
+
+Resim: 30.jpg
+Koordinatlar: (225, 213, 417, 252)
+
+Resim: 4.jpg
+Koordinatlar: (250, 364, 473, 416)
+
+Resim: 5.jpg
+Koordinatlar: (246, 487, 446, 537)
+
+Resim: 6.jpg
+Koordinatlar: (240, 310, 470, 361)
+
+Resim: 7.jpg
+Koordinatlar: (274, 524, 454, 568)
+
+Resim: 8.jpg
+Koordinatlar: (196, 411, 436, 476)
+
+Resim: 9.jpg
+Koordinatlar: (258, 480, 467, 530)
+
